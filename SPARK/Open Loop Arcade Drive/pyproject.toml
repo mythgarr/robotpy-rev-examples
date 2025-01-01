@@ -1,0 +1,10 @@
+[tool.robotpy]
+robotpy_version = "2025.0.0b3"
+robotpy_extras = [
+  "commands2",
+  "pathplannerlib",
+  "rev",
+  "sim"
+]
+requires = [
+]
