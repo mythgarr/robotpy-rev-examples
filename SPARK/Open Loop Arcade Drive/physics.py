@@ -1,4 +1,3 @@
-
 #
 # See the documentation for more details on how this works
 #

@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="RobotPy: Step 5 - Deploy Robot Code" type="PythonConfigurationType" factoryName="Python">
-    <module name="" />
+    <module name="Open Loop Arcade Drive" />
     <option name="ENV_FILES" value="" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />

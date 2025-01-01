@@ -51,12 +51,13 @@ class MyRobot(TimedRobot):
     
     # Apply the global config and set the leader SPARK for follower mode
     (leftFollowerConfig.apply(globalConfig)
-     .follow(self._leftLeader)
-     )
+     # .follow(self._leftLeader)
+    )
 
     # Apply the global config and set the leader SPARK for follower mode
     (rightFollowConfig.apply(globalConfig)
-     .follow(self._rightLeader))
+     # .follow(self._rightLeader)
+    )
 
     # Apply the configuration to the SPARKs.
     # 
